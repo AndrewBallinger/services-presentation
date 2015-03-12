@@ -1,4 +1,4 @@
-[fragile]
+
 
 ### Overview
 
@@ -10,7 +10,7 @@
 
 -   <span>Live coding</span>
 
-[fragile]
+
 
 ### Microservices
 
@@ -23,7 +23,7 @@ stuff.
 
 -   <span>Fire and forget</span>
 
-[fragile]
+
 
 ### Ideas
 
@@ -37,7 +37,7 @@ stuff.
 
 -   <span>Simple static website</span>
 
-[fragile]
+
 
 ### Macro-micro-service providers
 
@@ -53,7 +53,7 @@ stuff.
 
 -   <span>Linode (even)</span>
 
-[fragile]
+
 
 ### Let’s do this
 
