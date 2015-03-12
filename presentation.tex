@@ -1,0 +1,180 @@
+\documentclass{beamer}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{upquote}
+\usepackage{textcomp}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage{DejaVuSansMono}
+
+\lstset{basicstyle=\fontfamily{dejavu}\footnotesize\ttfamily,breaklines=true}
+\lstset{frame=bottomline}
+\lstset{upquote=true}
+
+\hypersetup{
+  colorlinks   = true,
+  linkcolor    = blue,
+  citecolor    = gray
+}
+
+\usetheme{Rochester}
+\title{ JIRA, Why bother? } 
+\subtitle{(Working Title)}
+\author{Andrew Ballinger}
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}[fragile]
+  \frametitle{Overview}
+
+  \begin{itemize}
+  \item{About JIRA}
+  \item{Why I think it's awesome}
+  \item{Filters}
+  \item{Boards}
+  \item{Things to try}
+  \item{Doing more with less}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  
+  \frametitle{What is a JIRA and how do I get one?}
+  Jira is a tool developed by Atlassian for project management.
+
+  \begin{itemize}
+  \item{2002, Version 6.3.8}
+  \item{Predates the cloud}
+  \item{``Enterprise Strength''}
+  \item{Loved and Hated} % Mention the cost of configuration.
+  \item{No free option} % Mention the cost of configuration.
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  
+  \frametitle{Why I think it's awesome}
+  Some cliches about powerful things.
+  \begin{figure}[p]
+    \centering
+    \includegraphics[width=15em]{palantir.jpg}
+    \caption{With great power comes great responsibility --George Lucas}
+  \end{figure}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  
+  \frametitle{Filters: What are they?}
+
+  \centering\huge{A way of getting at every ticket that exists in JIRA served up any way that you want them.}\par
+
+\end{frame}
+
+
+\begin{frame}[fragile]
+  \frametitle{Filters: Why are they good?}
+
+  \begin{itemize}
+  \item{Two strengths, Basic and Developer}
+  \item{Sharable}
+  \item{Savable}
+  \item{Confluence Integration}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Filters: Getting started}
+
+  \begin{itemize}
+  \item{Go to issues and see what's public}
+  \item{Click around in basic}
+  \item{Check it out in advanced (if brave)}
+  \item{Completion is your friend}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Boards: What are they?}
+  \centering\huge{Filters >>= Kanban}\par
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Boards: Why are they good?}
+
+  \begin{itemize}
+  \item{Day to day}
+  \item{Sprints}
+  \item{Overviews}
+  \end{itemize}
+  
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Boards: Getting Started}
+
+  \begin{itemize}
+  \item{Make a filter}
+  \item{Make a board}
+  \end{itemize}
+  
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Food and Questions Break}
+   \begin{figure}[p]
+    \centering
+    \includegraphics[width=15em]{comic.png}
+    \caption{This comic might be unrelated to the talk}
+  \end{figure}
+  
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Android Workflow}
+
+  \begin{itemize}
+  \item{Mirrors most (all?) web teams}
+  \item{Never delete issues}
+  \item{Tasteful validations}
+  \item{Lots of filters and boards}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Advanced: Things to try}
+
+  \begin{itemize}
+  \item{Add/Delete fields}
+  \item{Create private boards}
+  \item{Subtasks}
+  \item{Epics}
+  \item{Add/Delete Issue types}
+  \item{Validations}
+  \item{Webhooks / API}
+  \end{itemize}
+
+\end{frame}
+
+\begin{frame}[fragile]
+  \frametitle{Additional Resources}
+
+  Get them while they're hot.
+
+  \begin{itemize}
+  \item{\href{http://tolkiengateway.net/wiki/Palant\%C3\%ADri}{Palantiri on Tolkien Gateway.}}
+  \item{\href{https://confluence.atlassian.com/display/JIRA/Configuring+Workflow}{Workflow Docs on JIRA}}
+  \end{itemize}
+
+\end{frame}
+
+\end{document}
