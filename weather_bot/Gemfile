@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'sinatra'
 gem 'forecast_io'
-gem 'rest_client'
+gem 'httparty'
