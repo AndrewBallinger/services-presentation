@@ -1,3 +1,5 @@
+[fragile]
+
 ### Overview
 
 -   <span>Microservices</span>
@@ -7,6 +9,8 @@
 -   <span>Macro-micro-service providers</span>
 
 -   <span>Live coding</span>
+
+[fragile]
 
 ### Microservices
 
@@ -19,6 +23,8 @@ stuff.
 
 -   <span>Fire and forget</span>
 
+[fragile]
+
 ### Ideas
 
 -   <span>Massage emails</span>
@@ -30,6 +36,8 @@ stuff.
 -   <span>One-off scripts</span>
 
 -   <span>Simple static website</span>
+
+[fragile]
 
 ### Macro-micro-service providers
 
@@ -45,6 +53,11 @@ stuff.
 
 -   <span>Linode (even)</span>
 
+[fragile]
+
 ### Let’s do this
 
 ![Obligatory meme that dates the talk (or me)](well-do-it-live.jpg)
+
+[Getting Started with Ruby on
+Heroku](https://devcenter.heroku.com/articles/getting-started-with-ruby#introduction)
