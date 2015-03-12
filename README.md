@@ -55,6 +55,13 @@ stuff.
 
 
 
+### Some Relevant Comics
+
+![[www.xkcd.com](www.xkcd.com)](is_it_worth_the_time.png "fig:")
+![[www.xkcd.com](www.xkcd.com)](automation.png "fig:")
+
+
+
 ### Let’s do this
 
 ![Obligatory meme that dates the talk (or me)](well-do-it-live.jpg)
